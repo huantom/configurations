@@ -8,9 +8,9 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Synchronizer Name: 
-Synchronizer Account: 
-Mining Address: 
-Link to the official homepage of synchronizer: 
-Logo URI: 
-Synchronizer Introduction: 
+Account: 
+Name: 
+Mining Address (optional): 
+Homepage url: 
+Logo url: 
+Introduction: 

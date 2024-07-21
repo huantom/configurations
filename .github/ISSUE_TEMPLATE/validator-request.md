@@ -8,9 +8,8 @@ assignees: ''
 
 **Please provide the following information for your token.**
 
-Validator Name: 
-Validator Account: 
-Email: 
-Link to the official homepage of validator: 
-Logo URI: 
-Validator Introduction: 
+Account: 
+Name: 
+Homepage url: 
+Logo url: 
+Introduction: 
