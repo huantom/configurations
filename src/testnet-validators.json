@@ -1,0 +1,10 @@
+[
+  {
+    "name": "TestValidator",
+    "validator": "validator.sat",
+    "email": "validator@exsat.network",
+    "link": "https://validator.com",
+    "logoURI": "https://validator.com/img/logo.png",
+    "introduction": "TestValidator is a leading digital asset management platform in the world"
+  }
+]

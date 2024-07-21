@@ -1,0 +1,10 @@
+[
+  {
+    "name": "TestPool",
+    "synchronizer": "testpool.sat",
+    "miningAddress": ["1HGqStU2jTSpGqz7ix9vHfPNAfijXkbUnS", "16BE4HBdoUuUcuqCR6KFPTJMkGDreaXqmy"],
+    "link": "https://testpool.com",
+    "logoURI": "https://testpool.com/img/logo.png",
+    "introduction": "Bitcoin Test Pool"
+  }
+]

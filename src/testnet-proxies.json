@@ -1,0 +1,10 @@
+[
+  {
+    "name": "XXBTC",
+    "address": "0x0000000000000000000000000000000000000001",
+    "btcSymbol": "xx btc",
+    "decimals": 18,
+    "logoURI": "https://exsat.network/img/logo.png",
+    "defaultValidator": "validator.sat"
+  }
+]

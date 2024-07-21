@@ -1,0 +1,32 @@
+{
+  "name": "@exsat/configruations",
+  "version": "1.0.0",
+  "description": "The exsat configruations",
+  "main": "build/list.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/listt.json",
+    "prepublishOnly": "npm test && npm run build"
+  },
+  "files": [
+    "build/list.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exsat-network/configurations.git"
+  },
+  "keywords": [
+    "exsat",
+    "synchronizer",
+    "validator"
+  ],
+  "author": "exsat network",
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/exsat-network/configurations#readme",
+  "devDependencies": {
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
