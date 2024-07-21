@@ -6,7 +6,7 @@ labels: synchronizer request
 assignees: ''
 ---
 
-**Please provide the following information for your token.**
+**Please provide the following information for your synchronizer.**
 
 Account: 
 Name: 

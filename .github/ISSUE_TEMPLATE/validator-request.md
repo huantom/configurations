@@ -6,7 +6,7 @@ labels: validator request
 assignees: ''
 ---
 
-**Please provide the following information for your token.**
+**Please provide the following information for your validator.**
 
 Account: 
 Name: 
