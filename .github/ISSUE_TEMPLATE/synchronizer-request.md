@@ -1,7 +1,7 @@
 ---
 name: Synchronizer Request
 about: Request a synchronizer addition
-title: '[Mining Pool's Name] Submit mining pool registration information'
+title: "[Mining Pool's Name] Submit mining pool registration information"
 labels: synchronizer request
 assignees: ''
 ---
