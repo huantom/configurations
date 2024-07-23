@@ -8,9 +8,10 @@ assignees: ''
 
 **Please provide the following information for synchronizer.**
 
-Account:
-Name:
-Mining Address (optional):
-Homepage url:
-Logo url:
+Account: 
+Name: 
+Reward Account: 
+Mining Address (optional): 
+Homepage url: 
+Logo url: 
 Introduction: 
