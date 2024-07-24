@@ -1,10 +1,10 @@
 [
   {
-    "name": "TestPool",
-    "synchronizer": "testpool.sat",
-    "miningAddress": ["1HGqStU2jTSpGqz7ix9vHfPNAfijXkbUnS", "16BE4HBdoUuUcuqCR6KFPTJMkGDreaXqmy"],
-    "link": "https://testpool.com",
-    "logoURI": "https://testpool.com/img/logo.png",
-    "introduction": "Bitcoin Test Pool"
+    "name": "SpiderPool",
+    "synchronizer": "spider.sat",
+    "miningAddress": ["1BM1sAcrfV6d4zPKytzziu4McLQDsFC2Qc"],
+    "link": "https://www.spiderpool.com/",
+    "logoURI": "https://spiderpool.s3.us-west-1.amazonaws.com/images/logo-icon.png",
+    "introduction": "SpiderPool, founded in 2018, is a self-developed integrated mining pool with stable operation and solid technology. We are proven to have accumulated rich experience in ETH and BTC mining pool operation, in-depth technological research, strong development and a technical team with more than 11 years of industry experience. After more than six years of accumulated efforts, SpiderPool's ETH (POW) mining pool was ranked 3rd in the world and SpiderPool's current main business BTC mining pool is also among the top in the whole network."
   }
 ]
