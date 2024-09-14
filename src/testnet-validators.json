@@ -94,7 +94,7 @@
     "name": "myCactus",
     "validator": "cactus.sat",
     "link": "https://www.mycactus.com/",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/infstone.sat.png",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/cactus.sat.png",
     "introduction": "Leading Qualified Custodian for Digital Assets."
   }
 ]
