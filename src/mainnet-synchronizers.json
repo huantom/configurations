@@ -1,0 +1,34 @@
+[
+  {
+    "name": "SpiderPool",
+    "synchronizer": "spider.sat",
+    "miningAddress": ["1BM1sAcrfV6d4zPKytzziu4McLQDsFC2Qc"],
+    "link": "https://www.spiderpool.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/spider.sat.png",
+    "introduction": "SpiderPool, founded in 2018, is a self-developed integrated mining pool with stable operation and solid technology. We are proven to have accumulated rich experience in ETH and BTC mining pool operation, in-depth technological research, strong development and a technical team with more than 11 years of industry experience. After more than six years of accumulated efforts, SpiderPool's ETH (POW) mining pool was ranked 3rd in the world and SpiderPool's current main business BTC mining pool is also among the top in the whole network."
+  },
+  {
+    "name": "exSat Foundation",
+    "synchronizer": "xsatsync.sat",
+    "miningAddress": [],
+    "link": "https://exsat.network/app/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/xsatsync.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem."
+  },
+  {
+    "name": "F2Pool",
+    "synchronizer": "f2pool.sat",
+    "miningAddress": [],
+    "link": "https://f2pool.com",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/f2pool.sat.png",
+    "introduction": "world’s leading mining pool."
+  },
+  {
+    "name": "antpool",
+    "synchronizer": "antpool.sat",
+    "miningAddress": ["39C7fxSzEACPjM78Z7xdPxhf7mKxJwvfMJ","37jKPSmbEGwgfacCr2nayn1wTaqMAbA94Z"],
+    "link": "https://www.antpool.com/home",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/synchronizers/antpool.sat.png",
+    "introduction": ""
+  }
+]

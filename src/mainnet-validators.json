@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Hayek Testnet",
+    "validator": "hayekval.sat",
+    "link": "https://exsat.network/app",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/hayekval.sat.png",
+    "introduction": "exSat is a Layer 1.5 scaling solution designed to unlock the full potential of the Bitcoin ecosystem.Hayek is the testnet of exSat. the BTC data on it comes from the BTC test3 testnet."
+  },
+  {
+    "name": "Everstake",
+    "validator": "everstk.sat",
+    "link": "https://everstake.one/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/everstk.sat.png",
+    "introduction": "Everstake is a top-tier responsible validator trusted by 725k+ users across 75+ blockchain networks. Created by engineers for the entire community in 2018"
+  },
+  {
+    "name": "Antpool",
+    "validator": "antpool.sat",
+    "link": "https://www.antpool.com/home",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
+    "introduction": ""
+  },
+  {
+    "name": "SpiderPool",
+    "validator": "spiderdv.sat",
+    "link": "https://www.spiderpool.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/spiderdv.sat.png",
+    "introduction": "SpiderPool, founded in 2018, is a self-developed integrated mining pool with stable operation and solid technology. We are proven to have accumulated rich experience in ETH and BTC mining pool operation, in-depth technological research, strong development and a technical team with more than 11 years of industry experience. After more than six years of accumulated efforts, SpiderPool's ETH (POW) mining pool was ranked 3rd in the world and SpiderPool's current main business BTC mining pool is also among the top in the whole network."
+  },
+  {
+    "name": "Antpool",
+    "validator": "antvali.sat",
+    "link": "https://www.antpool.com/home",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/antvali.sat.png",
+    "introduction": ""
+  },
+  {
+    "name": "F2Pool",
+    "validator": "f2poolvl.sat",
+    "link": "https://f2pool.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
+    "introduction": "world’s leading mining pool."
+  },
+  {
+    "name": "BigONE",
+    "validator": "bigone.sat",
+    "link": "https://big.one/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/bigone.sat.svg",
+    "introduction": "BigONE is a pioneering cryptocurrency exchange with a long-standing reputation for excellence. The platform serves as an all-in-one solution for digital assets, offering powerful and user-friendly features such as trading, staking, and financial services. With millions of users globally, BigONE is committed to making cryptocurrency accessible worldwide. The exchange has been a key player in the blockchain revolution, notably as a top block producer in the EOS ecosystem. BigONE is dedicated to leading the future of digital finance by providing a secure, seamless, and comprehensive user experience."
+  },
+  {
+    "name": "miPool",
+    "validator": "mipool.sat",
+    "link": "https://mipool.one/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/mipool.sat.png",
+    "introduction": "miPool is a professional cryptocurrency mining team that was established in 2016 and has been mining major cryptocurrencies and developing blockchain infrastructure technology, mainly in Asia. We have accumulated a lot of experience and know-how in Bitcoin POW and ETH POW mining, POS staking such as EOS DPoS and Polkadot NPoS, and Filecoin (WindowPoS) mining."
+  },
+  {
+    "name": "Treis Blockchain",
+    "validator": "treis.sat",
+    "link": "",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/treis.sat.png",
+    "introduction": "Founded in 2017 and headquartered in Greenville, South Carolina, USA, Treis Blockchain is a blockchain service provider specializing in the operations and management of immersion and hydro cooled mining operations. They also manage 100s of proof of stake validation nodes and provide consulting/development services for Web3 integrated solutions."
+  },
+  {
+    "name": "ChainUp Cloud",
+    "validator": "chainup.sat",
+    "link": "https://cloud.chainup.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/chainup.sat.png",
+    "introduction": "ChainUp Cloud is an all-in-one Web3 platform that provides a range of services, including API services for developers, DeFi products for users, and node services for everyone."
+  },
+  {
+    "name": "Certik",
+    "validator": "certik.sat",
+    "link": "https://www.certik.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/certik.sat.svg",
+    "introduction": "Securing The Web3 World."
+  },
+  {
+    "name": "InfStones",
+    "validator": "inf.sat",
+    "link": "https://infstones.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/inf.sat.png",
+    "introduction": "InfStones is committed to supporting a wide range of AVSes and reward delegators through our Giveaway! "
+  },
+  {
+    "name": "InfStones",
+    "validator": "infstone.sat",
+    "link": "https://infstones.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/infstone.sat.png",
+    "introduction": "InfStones is committed to supporting a wide range of Blockchain, AVS services, and reward delegators."
+  },
+  {
+    "name": "myCactus",
+    "validator": "cactus.sat",
+    "link": "https://www.mycactus.com/",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/cactus.sat.png",
+    "introduction": "Leading Qualified Custodian for Digital Assets."
+  }
+]
