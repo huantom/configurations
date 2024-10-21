@@ -1,5 +1,12 @@
 [
   {
+    "name": "mars",
+    "validator": "mars.sat",
+    "link": "https://bitmars.one",
+    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/mars.png",
+    "introduction": "exSat Fans."
+  },
+  {
     "name": "Hayek Testnet",
     "validator": "hayekval.sat",
     "link": "https://exsat.network/app",
