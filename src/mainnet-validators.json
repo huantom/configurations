@@ -17,8 +17,8 @@
     "name": "Antpool",
     "validator": "antpool.sat",
     "link": "https://www.antpool.com/home",
-    "logoURI": "https://raw.githubusercontent.com/exsat-network/configurations/main/src/logo/validators/f2poolvl.sat.png",
-    "introduction": ""
+    "logoURI": "https://i.imgur.com/Ne6YPp2.png",
+    "introduction": "The world's leading cryptocurrency mining platform."
   },
   {
     "name": "SpiderPool",
